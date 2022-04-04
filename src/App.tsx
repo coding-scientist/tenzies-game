@@ -59,7 +59,7 @@ const App: FC = () => {
 				</audio>
 			)}
 			{tenzies && <Confetti id='confetti' />}
-			<h1>Tenzies</h1>
+			<h1>Tenzies is great</h1>
 			<p>
 				Roll until all dice are the same. Click each die to freeze it at its
 				current value between rolls.
